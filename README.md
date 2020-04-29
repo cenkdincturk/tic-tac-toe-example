@@ -1,4 +1,4 @@
-[ReactJs Official](https://https://reactjs.org/) sitesindeki Tic-Tac-Toe uygulaması
+[ReactJs Official](https://reactjs.org/) sitesindeki Tic-Tac-Toe uygulaması
 
 ## 1. Projeyi Clonela
 
