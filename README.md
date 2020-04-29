@@ -7,3 +7,7 @@ Projeyi cloneladıktan sonra klasörün içine girerek(Ex; terminal üzerinden: 
 ## 2. `npm start`
 
 Uygulamayı çalıştırmak için terminal üzerinden bu komutu uygulayın.
+
+## Tutorial için
+
+[ReactJs Tic-tac-toe tutorial](https://reactjs.org/tutorial/tutorial.html)
